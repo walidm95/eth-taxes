@@ -1,0 +1,18 @@
+{
+  "name": "eth-taxes",
+  "version": "0.0.1",
+  "description": "Calculates gain/loss for tax purposes from an eth address",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walid Madaoui",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "axios": "^0.21.0",
+    "coingecko-api": "^1.0.10",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
